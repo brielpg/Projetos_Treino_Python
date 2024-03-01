@@ -7,7 +7,11 @@ Este repositório tem como objetivo mostrar alguns dos meus projetos em ``Python
 ## Lista de requisitos e dependências:
 
 colorama
+
 random
+
 time
+
 string
+
 os
